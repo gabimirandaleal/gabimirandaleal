@@ -11,7 +11,7 @@
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Gabi-gif" height="400" src="https://media1.tenor.com/images/b7412a21f729d3de15f4786b999c168d/tenor.gif?itemid=18818533">
+  <img align="right" alt="Gabi-gif" height="250" src="https://media1.tenor.com/images/b7412a21f729d3de15f4786b999c168d/tenor.gif?itemid=18818533">
 </div>
   
   ##
