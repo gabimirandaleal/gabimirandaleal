@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/gbmiranda1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbmiranda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://camo.githubusercontent.com/b853cc1e7a87e85f8234d0de371c6a6b40d865dae0cd27adcc41231ef87a3cc8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67626d6972616e646131266c61796f75743d636f6d70616374266c616e67735f636f756e743d38266c616e67735f6e616d65213d6c657373267468656d653d64726163756c61"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmiranda1&layout=compact&langs_count=8&lang-name!=less&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
