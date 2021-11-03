@@ -13,7 +13,7 @@
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <br>
-  <img align="right" alt="Gabi-gif" height="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="right" alt="Gabi-gif" height="250" src="https://i.pinimg.com/originals/7a/fb/1a/7afb1aa51b2a03584cfcef891f879432.gif">
 </div>
   
   ##
