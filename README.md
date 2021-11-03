@@ -11,6 +11,7 @@
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gabi-React" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffslightbox.com%2Fnews%2Freact-fullscreen-lightbox-at-development!&psig=AOvVaw32C6QSCYh5-84ChYm5xonm&ust=1636054071290000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjNz8D2_PMCFQAAAAAdAAAAABAR">
   <br>
   <img align="right" alt="Gabi-gif" height="250" src="https://media1.tenor.com/images/b7412a21f729d3de15f4786b999c168d/tenor.gif?itemid=18818533">
 </div>
