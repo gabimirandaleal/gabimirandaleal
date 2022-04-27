@@ -22,7 +22,7 @@
   <img align="center" alt="Gabi-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                   
   <br>
-  <img align="right" alt="Gabi-gif" height="250" src="https://i.pinimg.com/originals/1f/74/09/1f7409b3a39288a2afac879dff27dbd0.gif">
+  <img align="right" alt="Gabi-gif" height="250" margin-top="10px" src="https://i.pinimg.com/originals/1f/74/09/1f7409b3a39288a2afac879dff27dbd0.gif">
 </div> 
   
   ##
