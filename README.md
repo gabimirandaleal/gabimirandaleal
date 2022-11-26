@@ -1,8 +1,8 @@
 ## Oii, eu sou a Gabriela Leal
  <div>
   <a href="https://github.com/gabimirandaleal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbmiranda1&show_icons=true&theme=dracula&commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmiranda1&layout=compact&langs_count=15&hide=less&theme=dracula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabimirandaleal&show_icons=true&theme=dracula&commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimirandaleal&layout=compact&langs_count=15&hide=less&theme=dracula"/> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
